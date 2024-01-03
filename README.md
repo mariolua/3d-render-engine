@@ -14,4 +14,4 @@
 - Press X to lock the mouse
 - Enable background in the skeet menu Lua -> A -> Background
 - Fix the whole fucking code
-- enjoy
+- Enjoy
